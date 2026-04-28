@@ -16,7 +16,7 @@ During this project, I built the foundation for reliable analysis by executing t
 * **Data Loading:** Importing and reading the case study dataset using Pandas.
 * **Data Quality Assurance (QA):** Validating data integrity, such as verifying account IDs to ensure no duplicates are present.
 * **Cleaning & Preprocessing:** Identifying and addressing missing or incorrectly masked data.
-* **Exploratory Data Analysis (EDA):** Checking consistency against the data dictionary and analyzing structural metrics using the `.shape` method.
+* **Exploratory Data Analysis (EDA):** Checking consistency against the data dictionary and analyzing structural metrics.
 
 -----------------//------------------------//------------------------
 
@@ -38,4 +38,4 @@ Durante este projeto, estruturei as bases de uma análise confiável passando pe
 * **Carregamento de Dados:** Importação e leitura do dataset do estudo de caso utilizando o Pandas.
 * **Garantia de Qualidade (QA):** Validação de integridade dos dados, como a verificação de IDs de contas para garantir a ausência de duplicidades prejudiciais à análise.
 * **Limpeza e Tratamento:** Identificação e tratamento de dados ausentes (*missing data*) ou mascarados com valores preenchidos de forma incorreta.
-* **Exploração Inicial (EDA):** Análise das características financeiras, verificação de coerência com o dicionário de dados e análise de métricas estruturais usando o método `.shape`.
+* **Exploração Inicial (EDA):** Análise das características financeiras, verificação de coerência com o dicionário de dados e análise de métricas estruturais.
